@@ -845,7 +845,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/untitled-2-582x388.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled4-264x308.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -881,7 +881,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/untitled3-498x315.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-582x388.jpeg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
